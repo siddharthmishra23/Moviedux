@@ -139,4 +139,53 @@
     "genre": "horror",
     "rating": "7.4"
   }
+  {
+    "id": 21,
+    "title": "Guardians of Twilight",
+    "image": "21.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
+  {
+    "id": 22,
+    "title": "Guardians of Twilight",
+    "image": "22.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
+  {
+    "id": 23,
+    "title": "Guardians of Twilight",
+    "image": "23.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
+  {
+    "id": 24,
+    "title": "Guardians of Twilight",
+    "image": "24.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
+  {
+    "id": 25,
+    "title": "Guardians of Twilight",
+    "image": "25.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
+  {
+    "id": 26,
+    "title": "Guardians of Twilight",
+    "image": "26.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
+  {
+    "id": 27,
+    "title": "Guardians of Twilight",
+    "image": "27.jpg",
+    "genre": "horror",
+    "rating": "7.4"
+  }
 ]
