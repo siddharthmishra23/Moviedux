@@ -137,55 +137,48 @@
     "title": "Guardians of Twilight",
     "image": "20.jpg",
     "genre": "horror",
-    "rating": "7.4"
-  }
+    "rating": "4.8"
+  },
   {
     "id": 21,
-    "title": "Guardians of Twilight",
+    "title": "Chef's disaster",
     "image": "21.jpg",
-    "genre": "horror",
-    "rating": "7.4"
-  }
+    "genre": "Comedy",
+    "rating": "8.0"
+  },
   {
     "id": 22,
-    "title": "Guardians of Twilight",
+    "title": "Letters to lorelei",
     "image": "22.jpg",
-    "genre": "horror",
-    "rating": "7.4"
-  }
+    "genre": "Romantic Drama",
+    "rating": "5.8"
+  },
   {
     "id": 23,
-    "title": "Guardians of Twilight",
+    "title": "Echoes in the mist",
     "image": "23.jpg",
     "genre": "horror",
-    "rating": "7.4"
-  }
+    "rating": "7.1"
+  },
   {
     "id": 24,
-    "title": "Guardians of Twilight",
+    "title": "Lost crown of Atlantis",
     "image": "24.jpg",
-    "genre": "horror",
-    "rating": "7.4"
-  }
+    "genre": "Adventure",
+    "rating": "3.4"
+  },
   {
     "id": 25,
-    "title": "Guardians of Twilight",
+    "title": "Neon Eclipse",
     "image": "25.jpg",
-    "genre": "horror",
-    "rating": "7.4"
-  }
+    "genre": "Scify",
+    "rating": "6.7"
+  },
   {
     "id": 26,
-    "title": "Guardians of Twilight",
+    "title": "Final Whistle",
     "image": "26.jpg",
-    "genre": "horror",
-    "rating": "7.4"
-  }
-  {
-    "id": 27,
-    "title": "Guardians of Twilight",
-    "image": "27.jpg",
-    "genre": "horror",
-    "rating": "7.4"
+    "genre": "Drama",
+    "rating": "5.4"
   }
 ]
