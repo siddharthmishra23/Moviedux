@@ -180,5 +180,19 @@
     "image": "26.jpg",
     "genre": "Drama",
     "rating": "5.4"
+  },
+  {
+    "id": 27,
+    "title": "The Vanishing Manuscript",
+    "image": "27.jpg",
+    "genre": "Mystery",
+    "rating": "8.1"
+  },
+  {
+    "id": 28,
+    "title": "Guardians of the Mystic Orb",
+    "image": "28.jpg",
+    "genre": "Fanstasy",
+    "rating": "9.4"
   }
 ]
